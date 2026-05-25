@@ -2,7 +2,7 @@
 
 This repository documents **24 core trading strategies** and **2 supplementary strategies** for 5-minute crypto binary resolution markets on Polymarket. All strategies are grounded in peer-reviewed research from financial economics, market microstructure, statistical learning, and alternative data analysis.
 
-> **Polyfon** — a Python quantitative trading simulator — implements these strategies in production-grade code with WebSocket data collection, SQLite persistence, and replay-based backtesting. See [`../README.md`](../README.md) for the full project.
+> **Polyfon** — a Python quantitative trading simulator — implements these strategies in production-grade code with WebSocket data collection, SQLite persistence, and replay-based backtesting. See https://github.com/annakoch1988/polyfon for the full project.
 
 ## Documents
 
